@@ -13,7 +13,7 @@ ursername : root
 password : root
 ```
 
-# stock 前端界面
+# stock-web 前端界面
 > A Vue.js project
 
 ## Build Setup
