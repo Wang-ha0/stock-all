@@ -7,11 +7,7 @@
 # server port 8080
 run StockApplication
 
-## 数据库 
-url: jdbc:mysql://127.0.0.1:3306/stock
-ursername : root
-password : root
-建表
+# 数据库 stock
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
