@@ -7,7 +7,7 @@
 # server port 8080
 run StockApplication
 
-# 数据库建表 stock
+# 数据库 新建数据库stock，运行以下sql
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
